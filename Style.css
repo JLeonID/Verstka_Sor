@@ -1,0 +1,10 @@
+* {
+	transition: all 5s;
+}
+
+body {
+	font:1em, Arial;
+	background: #ccc;
+	color:#333;
+}
+
